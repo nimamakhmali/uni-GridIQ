@@ -23,7 +23,7 @@ This project combines **Backend, Frontend, Machine Learning, and Simulation tool
 
 
 ## 📂 Repository Structure (Initial)
----bash
+```bash
 📦 smargrid-ai
 ┣ 📂 backend/ # APIs, microservices, data pipeline
 ┣ 📂 frontend/ # Web dashboard (React/Next.js)
@@ -36,7 +36,7 @@ This project combines **Backend, Frontend, Machine Learning, and Simulation tool
 ┣ 📜 .gitignore
 ┗ 📜 requirements.txt
 
----
+```
 
 ---
 
