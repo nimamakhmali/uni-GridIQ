@@ -58,5 +58,5 @@ Feel free to fork, create issues, and submit PRs.
 ---
 
 ## 📜 License
-MIT License © 2025 GridIQ Team
+This project is licensed under the [Apache License 2.0](LICENSE) - see the LICENSE file for details.
 
