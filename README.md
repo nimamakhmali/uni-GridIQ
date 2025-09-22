@@ -21,7 +21,7 @@ This project combines **Backend, Frontend, Machine Learning, and Simulation tool
 ---
 
 
-
+---
 ## 📂 Repository Structure (Initial)
 
 📦 smargrid-ai
@@ -36,7 +36,7 @@ This project combines **Backend, Frontend, Machine Learning, and Simulation tool
 ┣ 📜 .gitignore
 ┗ 📜 requirements.txt
 
-
+---
 
 ---
 
