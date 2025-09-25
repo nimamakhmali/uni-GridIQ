@@ -1,0 +1,1 @@
+from fastapi import FastAPI\nfrom fastapi.middleware.cors import CORSMiddleware\n\napp = FastAPI(title= GridIQ Backend, version=0.1.0)\n\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[*],\n    allow_credentials=True,\n    allow_methods=[*],\n    allow_headers=[*],\n)\n\n@app.get(/health)\ndef health_check():\n    return {status: ok}\n
